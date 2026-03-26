@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Appartement Haussmannien",
+    "category": "Rénovation Complète",
+    "description": "Rénovation d'un appartement de 150m2 au cœur de Genève. Conservation des moulures et parquets d'origine, intégration d'une cuisine contemporaine.",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80"
+  },
+  {
+    "id": "2",
+    "title": "Villa Contemporaine",
+    "category": "Aménagement Haut de Gamme",
+    "description": "Aménagement intérieur complet d'une villa neuve. Création de dressings sur mesure, salles de bain en marbre et éclairage architectural.",
+    "image": "https://images.unsplash.com/photo-1600607687931-ce7117cd3e07?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80"
+  },
+  {
+    "id": "3",
+    "title": "Bureaux d'Avocats",
+    "category": "Second Œuvre Commercial",
+    "description": "Aménagement de 300m2 de bureaux. Cloisons vitrées acoustiques, faux plafonds techniques, et menuiserie haut de gamme.",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80"
+  },
+  {
+    "id": "4",
+    "title": "Loft Industriel",
+    "category": "Rénovation & Design",
+    "description": "Transformation d'un ancien atelier en loft résidentiel. Mise en valeur des structures métalliques, béton ciré et verrières.",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80"
+  },
+  {
+    "id": "5",
+    "title": "Boutique de Luxe",
+    "category": "Aménagement Commercial",
+    "description": "Rénovation d'une boutique rue du Rhône. Finitions d'exception, éclairage muséographique et agencement sur mesure.",
+    "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80"
+  },
+  {
+    "id": "6",
+    "title": "Attique avec Vue",
+    "category": "Rénovation Complète",
+    "description": "Rénovation d'un appartement en attique. Création d'une cuisine ouverte, installation domotique complète et terrasse aménagée.",
+    "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80"
+  }
+]
